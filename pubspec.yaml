@@ -1,0 +1,15 @@
+name: neon_player
+description: Neon Fluid MP3 Player
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  on_audio_query: ^3.0.0
+  just_audio: ^0.9.36
+
+flutter:
+  uses-material-design: true
